@@ -1,5 +1,5 @@
 /**
- * Eastend - Visa Consulting HTML Template
+ *  JKCC - Visa Consulting HTML Template
  *
  * This file contains all theme JS functions
  *
