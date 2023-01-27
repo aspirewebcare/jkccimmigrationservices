@@ -130,7 +130,7 @@
 
   color: #444444;
 
-  border-top: 2px solid #F96921;
+  border-top: 2px solid #1fb5f9;
 
   -webkit-transition: all 0.5s ease;
 
@@ -148,7 +148,7 @@
 
   color: #333333;
 
-  border-top: 2px solid #F96921;
+  border-top: 2px solid #1fb5f9;
 
   -webkit-transition: all 0.5s ease;
 
@@ -199,7 +199,7 @@
 
   z-index: 9999;
 
-  border-top: 2px solid #F96921;
+  border-top: 2px solid #1fb5f9;
 
 }
 
@@ -291,7 +291,7 @@
 
   color: #FFF;
 
-  background-color: #F96921;
+  background-color: #1fb5f9;
 
 }
 
@@ -689,6 +689,6 @@
 
   color: #FFF;
 
-  background-color: #F96921;
+  background-color: #1fb5f9;
 
 }
